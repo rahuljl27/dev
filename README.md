@@ -1,7 +1,7 @@
 # Change # **CR0000xxxxxxx**
 
 ### `Requirement`
-| Sl No|Question|Expected Answer|Answer|
+| Sl No|Question|Expected Answer|Answer|Remarks|
 | ----------- | ----------- | ----------- | ----------- |
 |1| Is consumer using WS ?|Yes|Yes|
 |2| Is consumer using SSL |Yes|Yes|
