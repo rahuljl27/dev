@@ -2,7 +2,7 @@
 
 ### `Funct Requirement`
 |Domain|Area|Plot|Functional Service|Operation|Version|Payload Version|Scope|
-| ----------- | ----------- | ----------- | ----------- | ----------- |
+| ----------- | ----------- | ----------- | ----------- | ----------- |----------- | ----------- | ----------- |
 |Risk|Compliance|Screening|CardTxnScreening|checkFraud|1.0|1.0|Add vdjv consumer|
 
 ### `Requirement`
