@@ -12,7 +12,7 @@
 |7| Is consumer using WS ?|Yes|Yes||
 |8| Is consumer using SSL |Yes|Yes||
 |9| Is consumer using WS ?|Yes|Yes||
-|10| Is consumer using SSL |Yes|Yes|https://raw.githubusercontent.com/rahuljl27/dev/master/README.md|
+|10| Is consumer using SSL |Yes|Yes|[Click Here](https://raw.githubusercontent.com/rahuljl27/dev/master/README.md)|
 |11| Is consumer using WS ?|Yes|Yes||
 |12| Is consumer using SSL |Yes|Yes||
 |13| Is consumer using WS ?|Yes|Yes||
