@@ -37,7 +37,7 @@
 |19| Is consumer using WS ?|Yes|Yes||
 |20| Is consumer using SSL |Yes|Yes||
 |21| Is consumer using WS ?|Yes|Yes||
-|22| Is consumer using SSL |Yes|Yes||
+|22| Is consumer using SSL |Yes|No||
 
 ### `Design`
 
