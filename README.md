@@ -70,8 +70,8 @@
 
 | Sl No|Question|Expected Answer|Answer|
 | ----------- | ----------- | ----------- | ----------- |
-|1| Is consumer using WS ?|Yes|Yes|
-|2| Is consumer using SSL |Yes|Yes|
+|1| Is consumer using WS ?|Yes|No|
+|2| Is consumer using SSL |Yes|No|
 |3| Is consumer using WS ?|Yes|Yes|
 |4| Is consumer using SSL |Yes|Yes|
 |5| Is consumer using WS ?|Yes|Yes|
